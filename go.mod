@@ -1,4 +1,4 @@
-module go-decode-accesslog
+module accessloga
 
 go 1.23.5
 
