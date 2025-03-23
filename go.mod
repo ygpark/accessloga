@@ -1,4 +1,4 @@
-module accessloga
+module github.com/ygpark/accessloga
 
 go 1.23.5
 
